@@ -1,0 +1,7 @@
+@import "./base.css";
+
+body {
+  font-family: var(--primary-font);
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
